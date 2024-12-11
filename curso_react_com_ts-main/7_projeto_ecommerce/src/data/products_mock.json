@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "A vida invisível de Addie LaRue",
+    "price": 50.99,
+    "image": "https://m.media-amazon.com/images/I/71X245OYRBL._SY522_.jpg"
+  },
+  {
+    "id": 2,
+    "name": "A Biblioteca da Meia-Noite",
+    "price": 85.5,
+    "image": "https://m.media-amazon.com/images/I/81iqH8dpjuL._SY522_.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Verity ",
+    "price": 35.99,
+    "image": "https://m.media-amazon.com/images/I/51ABRx3d7GL._SY445_SX342_.jpg"
+  },
+  {
+    "id": 4,
+    "name": "A balada do felizes para nunca ",
+    "price": 120.0,
+    "image": "https://m.media-amazon.com/images/I/91TuTFpkT1L._SY522_.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Divinos rivais",
+    "price": 299.99,
+    "image": "https://m.media-amazon.com/images/I/51YeX6Y1GgL._SY445_SX342_.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Corte de espinhos e rosas",
+    "price": 19.99,
+    "image": "https://m.media-amazon.com/images/I/514evAZoQ5L._SY445_SX342_.jpg"
+  }
+]
